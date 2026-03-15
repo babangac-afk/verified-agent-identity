@@ -8,9 +8,9 @@ description: 'airtechteknik'
 required: true
 default: 'airtechteknik'
 agent_description:
-description: 'air'
+description: 'airtech'
 required: true
-default: 'aietechteknik AI Agent'
+default: 'airtechteknik AI Agent'
 
 jobs:
 verify:
